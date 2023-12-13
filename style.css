@@ -130,7 +130,7 @@ h1 {
   grid-row: span 2;
 }
 
-.grid-container :hover{
+.grid-container :hover {
   transform: scale(1.05);
   transition: transform 0.3s ease;
   border: 1px solid #000000;
@@ -235,6 +235,7 @@ h1 {
       flex-direction: column;
       width: 80%;
     }
+
     .about-image-container {
       height: 600px;
       width: 100%;
@@ -355,7 +356,7 @@ h2 {
 }
 
 footer {
-margin-top: 10rem;
+  margin-top: 10rem;
 }
 
 footer hr {
