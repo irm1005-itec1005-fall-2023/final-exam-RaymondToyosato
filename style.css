@@ -131,7 +131,7 @@ h1 {
 }
 
 .grid-container :hover {
-  transform: scale(1.05);
+  transform: scale(1.03);
   transition: transform 0.3s ease;
   border: 1px solid #000000;
 }
